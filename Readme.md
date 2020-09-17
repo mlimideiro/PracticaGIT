@@ -43,3 +43,6 @@ Date:   Thu Sep 17 18:24:37 2020 -0300
 
     Agregué línea al Readme
 >>>>>>> d750cd4... Agregué otra vez el log, luego de un git stash fallido
+
+
+La decimonovena es la vencida
